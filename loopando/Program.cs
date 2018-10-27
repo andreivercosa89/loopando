@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace loopando
 {
@@ -6,15 +7,20 @@ namespace loopando
     {
         static void Main(string[] args)
         {
-            int numero;
+            int quantidade = 0, idade = 0;
 
-            Console.WriteLine("Informe um numero: ");
-            numero = Int32.Parse(Console.ReadLine());
+            Console.ForegroundColor = ConsoleColor.Blue;
 
-            for (int i = 1; i <= 10; i++){
-                //Console.WriteLine(numero + " x " + i + " = "+ (numero * i));
-                Console.WriteLine(" {0} x {1} = {2}", numero, i, (numero * i));
+            for (int a = 1; a <= 10; a++){
+                Console.WriteLine("Informe a Idade: ");
+                idade = Int32.Parse(Console.ReadLine());
+                if(idade >= 18){
+                    quantidade++;
+                }
             }
+
+            Console.WriteLine("Ha {0} pessoa(s) maior(es) de idade", quantidade);
+
         }
     }
 }
