@@ -1,0 +1,11 @@
+/Users/aluno/Projects/loopando/loopando/bin/Debug/netcoreapp2.1/loopando.deps.json
+/Users/aluno/Projects/loopando/loopando/bin/Debug/netcoreapp2.1/loopando.runtimeconfig.json
+/Users/aluno/Projects/loopando/loopando/bin/Debug/netcoreapp2.1/loopando.runtimeconfig.dev.json
+/Users/aluno/Projects/loopando/loopando/bin/Debug/netcoreapp2.1/loopando.dll
+/Users/aluno/Projects/loopando/loopando/bin/Debug/netcoreapp2.1/loopando.pdb
+/Users/aluno/Projects/loopando/loopando/obj/Debug/netcoreapp2.1/loopando.csprojAssemblyReference.cache
+/Users/aluno/Projects/loopando/loopando/obj/Debug/netcoreapp2.1/loopando.csproj.CoreCompileInputs.cache
+/Users/aluno/Projects/loopando/loopando/obj/Debug/netcoreapp2.1/loopando.AssemblyInfoInputs.cache
+/Users/aluno/Projects/loopando/loopando/obj/Debug/netcoreapp2.1/loopando.AssemblyInfo.cs
+/Users/aluno/Projects/loopando/loopando/obj/Debug/netcoreapp2.1/loopando.dll
+/Users/aluno/Projects/loopando/loopando/obj/Debug/netcoreapp2.1/loopando.pdb
